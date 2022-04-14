@@ -1,0 +1,4 @@
+Cource | date to submit | exercise #
+OS	20.4.2022		ex1
+c++	23.4.2022		ex2
+logic	27.4.2022		ex3
